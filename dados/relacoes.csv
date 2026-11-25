@@ -1,0 +1,160 @@
+origem,relacao,destino
+Minato,PAI_DE,Naruto
+Fugaku,PAI_DE,Itachi
+Fugaku,PAI_DE,Sasuke
+Hiashi,PAI_DE,Hinata
+Hiashi,PAI_DE,Hanabi
+Hizashi,PAI_DE,Neji
+Hagoromo,PAI_DE,Indra
+Hagoromo,PAI_DE,Ashura
+Kushina,MAE_DE,Naruto
+Mikoto,MAE_DE,Itachi
+Mikoto,MAE_DE,Sasuke
+Kaguya,MAE_DE,Hagoromo
+Kaguya,MAE_DE,Hamura
+Uchiha,DESCENDE_DE,Indra
+Senju,DESCENDE_DE,Ashura
+Uzumaki,DESCENDE_DE,Ashura
+Hyuga,DESCENDE_DE,Hamura
+Tsunade,DESCENDE_DE,Hashirama
+Naruto,REENCARNACAO_DE,Ashura
+Hashirama,REENCARNACAO_DE,Ashura
+Sasuke,REENCARNACAO_DE,Indra
+Madara,REENCARNACAO_DE,Indra
+Itachi,IRMAO_DE,Sasuke
+Sasuke,IRMAO_DE,Itachi
+Hiashi,IRMAO_DE,Hizashi
+Hizashi,IRMAO_DE,Hiashi
+Hinata,IRMAO_DE,Hanabi
+Hanabi,IRMAO_DE,Hinata
+Hashirama,IRMAO_DE,Tobirama
+Tobirama,IRMAO_DE,Hashirama
+Hagoromo,IRMAO_DE,Hamura
+Hamura,IRMAO_DE,Hagoromo
+Indra,IRMAO_DE,Ashura
+Ashura,IRMAO_DE,Indra
+Gaara,IRMAO_DE,Temari
+Temari,IRMAO_DE,Gaara
+Gaara,IRMAO_DE,Kankuro
+Kankuro,IRMAO_DE,Gaara
+Temari,IRMAO_DE,Kankuro
+Kankuro,IRMAO_DE,Temari
+Naruto,PERTENCE_AO_CLA,Uzumaki
+Kushina,PERTENCE_AO_CLA,Uzumaki
+Sasuke,PERTENCE_AO_CLA,Uchiha
+Itachi,PERTENCE_AO_CLA,Uchiha
+Fugaku,PERTENCE_AO_CLA,Uchiha
+Mikoto,PERTENCE_AO_CLA,Uchiha
+Madara,PERTENCE_AO_CLA,Uchiha
+Obito,PERTENCE_AO_CLA,Uchiha
+Hinata,PERTENCE_AO_CLA,Hyuga
+Hanabi,PERTENCE_AO_CLA,Hyuga
+Hiashi,PERTENCE_AO_CLA,Hyuga
+Hizashi,PERTENCE_AO_CLA,Hyuga
+Neji,PERTENCE_AO_CLA,Hyuga
+Hashirama,PERTENCE_AO_CLA,Senju
+Tobirama,PERTENCE_AO_CLA,Senju
+Tsunade,PERTENCE_AO_CLA,Senju
+Kaguya,PERTENCE_AO_CLA,Otsutsuki
+Hagoromo,PERTENCE_AO_CLA,Otsutsuki
+Hamura,PERTENCE_AO_CLA,Otsutsuki
+Indra,PERTENCE_AO_CLA,Otsutsuki
+Ashura,PERTENCE_AO_CLA,Otsutsuki
+Shikamaru,PERTENCE_AO_CLA,Nara
+Ino,PERTENCE_AO_CLA,Yamanaka
+Choji,PERTENCE_AO_CLA,Akimichi
+Naruto,E_DA_VILA,Konoha
+Sasuke,E_DA_VILA,Konoha
+Sakura,E_DA_VILA,Konoha
+Kakashi,E_DA_VILA,Konoha
+Minato,E_DA_VILA,Konoha
+Fugaku,E_DA_VILA,Konoha
+Mikoto,E_DA_VILA,Konoha
+Itachi,E_DA_VILA,Konoha
+Hinata,E_DA_VILA,Konoha
+Hiashi,E_DA_VILA,Konoha
+Hizashi,E_DA_VILA,Konoha
+Neji,E_DA_VILA,Konoha
+Hanabi,E_DA_VILA,Konoha
+Tsunade,E_DA_VILA,Konoha
+Jiraiya,E_DA_VILA,Konoha
+Orochimaru,E_DA_VILA,Konoha
+Hiruzen,E_DA_VILA,Konoha
+Obito,E_DA_VILA,Konoha
+Rin,E_DA_VILA,Konoha
+Guy,E_DA_VILA,Konoha
+Lee,E_DA_VILA,Konoha
+Gaara,E_DA_VILA,Suna
+Temari,E_DA_VILA,Suna
+Kankuro,E_DA_VILA,Suna
+Shikamaru,E_DA_VILA,Konoha
+Ino,E_DA_VILA,Konoha
+Choji,E_DA_VILA,Konoha
+Asuma,E_DA_VILA,Konoha
+Danzo,E_DA_VILA,Konoha
+Kushina,E_DA_VILA,Uzushio
+Kushina,E_DA_VILA,Konoha
+Hashirama,E_DA_VILA,Konoha
+Tobirama,E_DA_VILA,Konoha
+Madara,E_DA_VILA,Konoha
+Naruto,INTEGRA_TIME,Time 7
+Sasuke,INTEGRA_TIME,Time 7
+Sakura,INTEGRA_TIME,Time 7
+Kakashi,INTEGRA_TIME,Time 7
+Minato,INTEGRA_TIME,Time Minato
+Kakashi,INTEGRA_TIME,Time Minato
+Obito,INTEGRA_TIME,Time Minato
+Rin,INTEGRA_TIME,Time Minato
+Guy,INTEGRA_TIME,Time Guy
+Lee,INTEGRA_TIME,Time Guy
+Neji,INTEGRA_TIME,Time Guy
+Asuma,INTEGRA_TIME,Time 10
+Shikamaru,INTEGRA_TIME,Time 10
+Ino,INTEGRA_TIME,Time 10
+Choji,INTEGRA_TIME,Time 10
+Kakashi,SENSEI_DE,Naruto
+Kakashi,SENSEI_DE,Sasuke
+Kakashi,SENSEI_DE,Sakura
+Minato,SENSEI_DE,Kakashi
+Minato,SENSEI_DE,Obito
+Minato,SENSEI_DE,Rin
+Guy,SENSEI_DE,Lee
+Guy,SENSEI_DE,Neji
+Asuma,SENSEI_DE,Shikamaru
+Asuma,SENSEI_DE,Ino
+Asuma,SENSEI_DE,Choji
+Jiraiya,SENSEI_DE,Naruto
+Jiraiya,SENSEI_DE,Minato
+Tsunade,SENSEI_DE,Sakura
+Hiruzen,SENSEI_DE,Jiraiya
+Hiruzen,SENSEI_DE,Tsunade
+Hiruzen,SENSEI_DE,Orochimaru
+Itachi,MEMBRO_DE,Akatsuki
+Obito,MEMBRO_DE,Akatsuki
+Jiraiya,MEMBRO_DE,Sannin
+Tsunade,MEMBRO_DE,Sannin
+Orochimaru,MEMBRO_DE,Sannin
+Naruto,RIVAL_DE,Sasuke
+Sasuke,RIVAL_DE,Naruto
+Kakashi,RIVAL_DE,Guy
+Guy,RIVAL_DE,Kakashi
+Hashirama,RIVAL_DE,Madara
+Madara,RIVAL_DE,Hashirama
+Sasuke,POSSUI_KG,Sharingan
+Itachi,POSSUI_KG,Sharingan
+Fugaku,POSSUI_KG,Sharingan
+Madara,POSSUI_KG,Sharingan
+Obito,POSSUI_KG,Sharingan
+Kakashi,POSSUI_KG,Sharingan
+Danzo,POSSUI_KG,Sharingan
+Hinata,POSSUI_KG,Byakugan
+Hanabi,POSSUI_KG,Byakugan
+Hiashi,POSSUI_KG,Byakugan
+Hizashi,POSSUI_KG,Byakugan
+Neji,POSSUI_KG,Byakugan
+Sharingan,HERDADO_POR,Uchiha
+Byakugan,HERDADO_POR,Hyuga
+Naruto,JINCHURIKI_DE,Kurama
+Kushina,JINCHURIKI_DE,Kurama
+Minato,JINCHURIKI_DE,Kurama
+Hagoromo,CRIOU,Kurama

@@ -1,0 +1,59 @@
+nome,tipo,propriedades
+Naruto,Personagem,rank=Genin;status=vivo;vila=Konoha
+Sasuke,Personagem,rank=Genin;status=vivo;vila=Konoha
+Sakura,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Kakashi,Personagem,rank=Hokage;status=vivo;vila=Konoha
+Minato,Personagem,rank=Hokage;status=morto;vila=Konoha
+Kushina,Personagem,status=morto;vila=Uzushio
+Fugaku,Personagem,rank=Jonin;status=morto;vila=Konoha
+Mikoto,Personagem,rank=Jonin;status=morto;vila=Konoha
+Itachi,Personagem,status=morto;vila=Konoha
+Hinata,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Hiashi,Personagem,rank=Jonin;status=vivo;vila=Konoha
+Hizashi,Personagem,rank=Jonin;status=morto;vila=Konoha
+Neji,Personagem,rank=Jonin;status=morto;vila=Konoha
+Hanabi,Personagem,status=vivo;vila=Konoha
+Hashirama,Personagem,rank=Hokage;status=morto
+Tobirama,Personagem,rank=Hokage;status=morto
+Tsunade,Personagem,rank=Hokage;status=vivo;vila=Konoha
+Jiraiya,Personagem,status=morto;vila=Konoha
+Orochimaru,Personagem,status=vivo;vila=Konoha
+Hiruzen,Personagem,rank=Hokage;status=morto;vila=Konoha
+Kaguya,Personagem,
+Hagoromo,Personagem,status=morto
+Hamura,Personagem,status=morto
+Indra,Personagem,status=morto
+Ashura,Personagem,status=morto
+Madara,Personagem,status=morto
+Obito,Personagem,status=morto;vila=Konoha
+Rin,Personagem,rank=Chunin;status=morto;vila=Konoha
+Guy,Personagem,rank=Jonin;status=vivo;vila=Konoha
+Lee,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Gaara,Personagem,rank=Kazekage;status=vivo;vila=Suna
+Temari,Personagem,rank=Jonin;status=vivo;vila=Suna
+Kankuro,Personagem,rank=Jonin;status=vivo;vila=Suna
+Shikamaru,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Ino,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Choji,Personagem,rank=Chunin;status=vivo;vila=Konoha
+Asuma,Personagem,rank=Jonin;status=morto;vila=Konoha
+Danzo,Personagem,status=morto;vila=Konoha
+Uzumaki,Cla,
+Uchiha,Cla,
+Hyuga,Cla,
+Senju,Cla,
+Otsutsuki,Cla,
+Nara,Cla,
+Yamanaka,Cla,
+Akimichi,Cla,
+Time 7,Time,
+Time Minato,Time,
+Time Guy,Time,
+Time 10,Time,
+Akatsuki,Organizacao,
+Sannin,Organizacao,
+Konoha,Vila,pais=Fogo
+Suna,Vila,pais=Vento
+Uzushio,Vila,pais=Redemoinho
+Sharingan,Kekkei Genkai,tipo=dojutsu
+Byakugan,Kekkei Genkai,tipo=dojutsu
+Kurama,Bijuu,caudas=9
