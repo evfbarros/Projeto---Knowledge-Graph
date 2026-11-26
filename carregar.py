@@ -31,4 +31,7 @@ def carregar_grafo(pasta="dados"):
 if __name__ == "__main__":
     kg = carregar_grafo()
     print(len(kg.nos))
-    print(kg.adj["Naruto"])
+    #print(kg.adj["Naruto"])
+    #print(kg.consultar_no("Naruto"))
+    print(kg.consultar_relacao("MEMBRO_DE", "Akatsuki"))
+    print(kg.consultar_relacao("PAI_DE"))

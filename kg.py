@@ -42,4 +42,24 @@ class KnowledgeGraph:
         del self.nos[nome]
         del self.adj[nome]
         del self.adj_rev[nome]
+        
+    def consultar_no(self, nome):
+        if nome not in self.nos:
+            raise KeyError(f"O nó {nome} nao existe")
+        
+        return {
+            "tipo": self.nos[nome]["tipo"],
+            "propriedades": self.nos[nome]["propriedades"],
+            "saindo": self.adj[nome],
+            "chegando": self.adj_rev[nome],
+        }
             
+    def consultar_relacao(self, relacao, destino=None):
+        resultado = []
+        
+        for origem in self.adj:
+            for rel, dest in self.adj[origem]:
+                if rel == relacao and (destino is None or dest == destino):
+                    resultado.append((origem, rel, dest))
+                    
+        return resultado

@@ -92,5 +92,5 @@ def gerar_html(kg, arquivo="naruto.html"):
 if __name__ == "__main__":
     from carregar import carregar_grafo
     grafo = carregar_grafo()
-
+    
     gerar_html(grafo)
