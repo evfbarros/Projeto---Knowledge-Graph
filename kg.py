@@ -43,38 +43,3 @@ class KnowledgeGraph:
         del self.adj[nome]
         del self.adj_rev[nome]
             
-kg = KnowledgeGraph()
-print("Adicionar nó")
-kg.adicionar_no("Naruto", "Personagem", {"rank": "Genin"})
-kg.adicionar_no("Time 7", "Time")
-print(kg.nos)
-print(kg.adj, kg.adj_rev)
-print("")
-
-print("Relacoes")
-kg.adicionar_relacao("Naruto", "INTEGRA_TIME", "Time 7")
-print(kg.adj)
-print(kg.adj_rev)
-#kg.adicionar_relacao("Naurto", "INTEGRA_TIME", "Time 7")   # tem que dar erro
-print("")
-
-print("remover relacao")
-kg.remover_relacao("Naruto", "INTEGRA_TIME", "Time 7")
-print(kg.adj)
-print(kg.adj_rev)
-
-kg.adicionar_relacao("Naruto", "INTEGRA_TIME", "Time 7")
-
-print("")
-
-print("remover no")
-
-kg.remover_no("Time 7")
-print(kg.nos)
-print(kg.adj)
-print(kg.adj_rev)
-
-kg.adicionar_no("Time 7", "Time")
-kg.adicionar_relacao("Naruto", "INTEGRA_TIME", "Time 7")
-kg.remover_no("Naruto")
-print(kg.adj, kg.adj_rev)

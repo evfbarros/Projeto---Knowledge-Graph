@@ -90,26 +90,7 @@ def gerar_html(kg, arquivo="naruto.html"):
 
 # Teste inicial da visualizacao
 if __name__ == "__main__":
-
-    from kg import KnowledgeGraph
-
-    grafo = KnowledgeGraph()
-
-    grafo.adicionar_no("Naruto", "Personagem")
-    grafo.adicionar_no("Sasuke", "Personagem")
-    grafo.adicionar_no("Uzumaki", "Cla")
-    grafo.adicionar_no("Konoha", "Vila")
-
-    grafo.adicionar_relacao(
-        "Naruto", "RIVAL_DE", "Sasuke"
-    )
-
-    grafo.adicionar_relacao(
-        "Naruto", "PERTENCE_AO_CLA", "Uzumaki"
-    )
-
-    grafo.adicionar_relacao(
-        "Naruto", "E_DA_VILA", "Konoha"
-    )
+    from carregar import carregar_grafo
+    grafo = carregar_grafo()
 
     gerar_html(grafo)
